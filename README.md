@@ -4,7 +4,7 @@
 
 "stack exec functional-adventure-exe" to run
 
-Goal: Find the Golden Frying Pan, trade it for the Jarate, and bring the Jarate to TC Hydro to win the game!
+Goal: Find the Jarate, trade it for the Golden Frying Pan, and bring it to TC Hydro to win the game!
 
 Commands: 
   | Inventory
